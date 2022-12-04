@@ -1,0 +1,7 @@
+C:\Users\Carter Barton\OneDrive\Documents\NBCC\programming\BartonLab7\bin\Debug\BartonLab7.exe.config
+C:\Users\Carter Barton\OneDrive\Documents\NBCC\programming\BartonLab7\bin\Debug\BartonLab7.exe
+C:\Users\Carter Barton\OneDrive\Documents\NBCC\programming\BartonLab7\bin\Debug\BartonLab7.pdb
+C:\Users\Carter Barton\OneDrive\Documents\NBCC\programming\BartonLab7\obj\Debug\BartonLab7.csproj.AssemblyReference.cache
+C:\Users\Carter Barton\OneDrive\Documents\NBCC\programming\BartonLab7\obj\Debug\BartonLab7.csproj.CoreCompileInputs.cache
+C:\Users\Carter Barton\OneDrive\Documents\NBCC\programming\BartonLab7\obj\Debug\BartonLab7.exe
+C:\Users\Carter Barton\OneDrive\Documents\NBCC\programming\BartonLab7\obj\Debug\BartonLab7.pdb
